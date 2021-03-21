@@ -1,10 +1,21 @@
 
 
  <p align="center"><strong>Tanmay Hinge</strong></p>
-  
-
-<p align="center">
-
- <img src="https://media.giphy.com/media/l4pTgkgBLhxc6tAE8/giphy.gif" width="200" />
-  
-</p>
+ 
+ <hr>
+ 
+ <p align="center">student, developer</p>
+ 
+ 
+ <p align="center"><a href="https://tanmayhinge.github.io/">Portfolio Page</a></p>
+ <p align="center"><a href="https://tanmayhinge.github.io/Resume.pdf">View Resume</a></p>
+ 
+ ```javascript
+var person = {
+   name: "Tanmay Hinge",
+   age: 20,
+   location: "Mumbai, India",
+   programming: ['c++', 'javascript', 'java', 'python'],
+   other: ['react', 'express', 'unity3D', 'mongoDB']
+};
+ ```
