@@ -1,13 +1,4 @@
-
-
- <p align="center"><strong>Tanmay Hinge</strong></p>
- 
- <hr>
- 
- <p align="center">student, developer</p>
- 
- 
- <p align="center"><a href="https://tanmayhinge.github.io/">Portfolio Page</a></p>
+<p align="center"><a href="https://tanmayhinge.github.io/">Portfolio Page</a></p>
  <p align="center"><a href="https://tanmayhinge.github.io/Resume.pdf">View Resume</a></p>
  
  ```javascript
